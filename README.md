@@ -1,19 +1,13 @@
 # AppMathST
 Прикладная математика в строительстве
 
-## Плани
+## План
 - Занятие 1. 
-  - Случайные события: определение, сложение и умножение, схема Бернулли. 
-  - Случайные величины: числовые характеристики, функция распределения
-  - [events.pdf](https://github.com/VetrovSV/AppMathST/blob/master/events.pdf?raw=true)
-  - [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true)
+  - Случайные события: определение, сложение и умножение, схема Бернулли: [events.pdf](https://github.com/VetrovSV/AppMathST/blob/master/events.pdf?raw=true)
+  - Случайные величины: числовые характеристики, функция распределения: [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true)
   - Практика: задачи 114, 188, 207, 210 из [1]
-   
 
 
- 	Python_math.pdf -- математические возможности языка программирования Python.
-  Python_Data_visualization.pdf -- визуализация математических данных (графики, статистические диаграммы) 
-  с помошью языка программирования Python.
 
 
 ## Литература
