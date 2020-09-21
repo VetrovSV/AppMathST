@@ -5,7 +5,7 @@
 - Занятие 1. 
   - Случайные события: определение, сложение и умножение, схема Бернулли: [events.pdf](https://github.com/VetrovSV/AppMathST/blob/master/events.pdf?raw=true)
   - Случайные величины: числовые характеристики, функция распределения: [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true)
-  - Практика: задачи 114, 188, 207, 210 из [1]
+  - Практика: задачи 114, 188, 207, 210 из [2]
 
 
 
