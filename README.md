@@ -8,7 +8,7 @@
 
 ### Занятие 2. [Прочность бетона и начало математической статистики](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
-### Занятие 2. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
+### Занятие 3. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
 
 
 
