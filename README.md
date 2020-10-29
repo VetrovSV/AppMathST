@@ -10,7 +10,7 @@
 
 ### Занятие 3. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
 
-### Занятие 3. [Корреляция. Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/4.md)
+### Занятие 4. [Корреляция. Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/4.md)
 
 
 
