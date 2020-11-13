@@ -4,15 +4,15 @@
 
 ## План
 
-### Занятие 1. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+### Занятие 3. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
-### Занятие 2. [Прочность бетона и начало математической статистики](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+### Занятие 4. [Прочность бетона и начало математической статистики](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
-### Занятие 3. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
+### Занятие 5. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
 
-### Занятие 4. [Корреляция. Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/4.md)
+### Занятие 6. [Корреляция](https://github.com/VetrovSV/AppMathST/blob/master/dist/4.md)
 
-
+### Занятие 7. [Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/5.md)
 
 
 ## Литература
