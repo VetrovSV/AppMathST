@@ -1,6 +1,7 @@
 # AppMathST
 Прикладная математика в строительстве
 
+## [План (заочное)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/plan.md)
 
 ## План
 
