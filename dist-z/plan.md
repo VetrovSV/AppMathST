@@ -3,6 +3,9 @@
   Слайды лекции:  [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true), [variables_2.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_2.pdf?raw=true)
   - Случайное событие. 
   - Случайная величина. Числовые характеристики. Распределение.
+  - Шаблон для выполнения работы 1: https://colab.research.google.com/drive/1-HqeZSKvJyLrPfkT1wElnRoUUP00NZUR?usp=sharing
+    - чтобы открыть файл онлайн нужно войти в вашу учётную запись Гугл
+    - во время открытия файла выберете: Open in Google Colab (открыть в Google Colab)
   - Корреляция. 
 
 ### 2 февраля.
