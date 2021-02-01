@@ -1,6 +1,6 @@
 ### 1 февраля.
   - Лекция в дискорде
-  Слайды лекции:  [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true), [variables_2.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_2.pdf?raw=true)
+  - Слайды лекции:  [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true), [variables_2.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_2.pdf?raw=true)
   - Случайное событие. 
   - Случайная величина. Числовые характеристики. Распределение.
   - Шаблон для выполнения работы 1: https://colab.research.google.com/drive/1-HqeZSKvJyLrPfkT1wElnRoUUP00NZUR?usp=sharing
@@ -16,7 +16,7 @@
   - Шаблон для выполнения работы 2:
     https://colab.research.google.com/drive/1JUW43GBoo1DNczcpCohe7sjee_EHuxbo?usp=sharing
       - файл открывается также как и предыдущий
-      - загрузите файл с данными своего варината из папки. Открыть место для загрузки: клик по значку папки слева
+      - загрузите файл с данными своего варианта из папки. Открыть место для загрузки: клик по значку папки слева
       - или
       - Укажите прямую ссылку на файл с данными. \
       Например: `https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task2/data/data1-v0.csv` -- нулевой вариант.
