@@ -1,9 +1,16 @@
 # AppMathST
 Прикладная математика в строительстве
 
+
+
+## План 2021
+
+### Занятие 1. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+
+
 ## [План (заочное)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/plan.md)
 
-## План
+## План 2020
 
 ### Занятие 3. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
