@@ -2,16 +2,25 @@
 Прикладная математика в строительстве
 
 
-## План
 
-### Занятие 1. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+## [План 2021](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
-### Занятие 2. [Прочность бетона и начало математической статистики](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
-### Занятие 3. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
+## [План (заочное)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/plan.md)
 
-### Занятие 4. [Корреляция. Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/4.md)
+## План 2020
 
+### Занятие 3. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+
+### Занятие 4. [Прочность бетона и начало математической статистики](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+
+### Занятие 5. [Прочность бетона и математическая статистика. Продолжение](https://github.com/VetrovSV/AppMathST/blob/master/dist/3.md)
+
+### Занятие 6. [Корреляция](https://github.com/VetrovSV/AppMathST/blob/master/dist/4.md)
+
+### Занятие 7. [Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/5.md)
+
+### Занятие 8. [Интерполяция](https://github.com/VetrovSV/AppMathST/blob/master/dist/8.md)
 
 
 
