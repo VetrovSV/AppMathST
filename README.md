@@ -3,12 +3,12 @@
 
 
 
-## [План 2021](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
+## [План 2021](https://github.com/VetrovSV/AppMathST/blob/master/dist-2021/plan.md)
 
 
 ## [План (заочное)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/plan.md)
 
-## План 2020
+<!-- ## План 2020
 
 ### Занятие 3. [Случайные события и случайные величины](https://github.com/VetrovSV/AppMathST/blob/master/dist/2.md)
 
@@ -20,7 +20,7 @@
 
 ### Занятие 7. [Надёжность](https://github.com/VetrovSV/AppMathST/blob/master/dist/5.md)
 
-### Занятие 8. [Интерполяция](https://github.com/VetrovSV/AppMathST/blob/master/dist/8.md)
+### Занятие 8. [Интерполяция](https://github.com/VetrovSV/AppMathST/blob/master/dist/8.md) -->
 
 
 
@@ -29,3 +29,6 @@
 
 1. Гмурман, В. Е.  Руководство к решению задач по теории вероятностей и математической статистике : учебное пособие для вузов / В. Е. Гмурман. — 11-е изд., перераб. и доп. — Москва : Издательство Юрайт, 2020. — 406 с. URL: http://biblio-online.ru/bcode/449645 (дата обращения: 21.09.2020).
 - ...
+
+## ***
+Программа для работы с распределениями СВ: Probabilty Distributions: [Android](https://play.google.com/store/apps/details?id=com.mbognar.probdist&hl=ru_RU), [iOS](https://apps.apple.com/us/app/probability-distributions/id889106396)
