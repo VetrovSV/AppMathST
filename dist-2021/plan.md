@@ -1,3 +1,8 @@
+# Занятие 8. Защита работ
+23 октября. 
+- Завершение работы 2.
+- Защита работ
+
 # Занятие 7. Защита работ
 16 октября
 
@@ -14,6 +19,7 @@
 - Повторение
 - Матрица корреляции. Диаграмма размаха. Гипотеза о значимости КК.
 - Начало разбора работы 2: https://github.com/VetrovSV/AppMathST/blob/master/task2/Task2.pdf
+- Данные: https://github.com/VetrovSV/AppMathST/tree/master/task2/data
 - Шаблон для выполнения работы 2:
     https://colab.research.google.com/drive/1JUW43GBoo1DNczcpCohe7sjee_EHuxbo?usp=sharing
       - Укажите прямую ссылку на файл с данными. \
