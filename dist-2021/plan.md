@@ -1,3 +1,8 @@
+# Занятие 9. Интерполяция
+- Задание 4: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task2/Task2.pdf
+    Пример выполнения задания: https://colab.research.google.com/github/VetrovSV/AppMathST/blob/master/examples/interpolation/interpolation.ipynb#scrollTo=df7ZCTxLx0WX
+    
+
 # Занятие 8. Защита работ
 23 октября. 
 - зависимые и независимые выборки, сравнение выборок: https://github.com/VetrovSV/ST/blob/master/%D0%9D%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8.%201page.pdf
