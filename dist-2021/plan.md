@@ -1,6 +1,6 @@
 # Занятие 9. Интерполяция
 - https://raw.githubusercontent.com/VetrovSV/AppMathST/master/Python_math.pdf (раздел интерполяция)
-- Задание 4: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task2/Task2.pdf
+- Задание 4: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task4/Task4.pdf
     Пример выполнения задания: https://colab.research.google.com/github/VetrovSV/AppMathST/blob/master/examples/interpolation/interpolation.ipynb#scrollTo=df7ZCTxLx0WX
     
 
