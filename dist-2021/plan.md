@@ -1,4 +1,16 @@
+# Занятие 11. 
+13 ноября. 
+- Защита работ
+- Надёжность: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/reliability.pdf
+  - Разбор 4-й работы.
+
+# Занятие 10. 
+05 ноября. 
+- Защита работ
+
+    
 # Занятие 9. Интерполяция
+30 октября
 - https://raw.githubusercontent.com/VetrovSV/AppMathST/master/Python_math.pdf (раздел интерполяция)
 - Задание 4: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task4/Task4.pdf
     Пример выполнения задания: https://colab.research.google.com/drive/1gwNt2rJzGafhnPET_hdBWoxujxZa42VW?usp=sharing
