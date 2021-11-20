@@ -1,8 +1,21 @@
+# Занятие 14. 
+- Защита работ
+
+# Занятие 13.
+- Защита работ
+
+# Занятие 12. 
+20 ноября. 
+- Надёжность: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/reliability.pdf
+  - Разбор работы:  https://github.com/VetrovSV/AppMathST/blob/master/task3/Task3.pdf
+  Для работы с распределениями использкйте программу Probability Distributions. Для выражения искомой величины можно использовать wolframlapha.com
+
+
 # Занятие 11. 
 13 ноября. 
 - Защита работ
 - Надёжность: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/reliability.pdf
-  - Разбор 4-й работы.
+
 
 # Занятие 10. 
 05 ноября. 
