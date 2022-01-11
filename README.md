@@ -6,7 +6,7 @@
 ## [План 2021](https://github.com/VetrovSV/AppMathST/blob/master/dist-2021/plan.md)
 
 
-## [План (заочное)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/plan.md)
+## [План (заочное, 2021)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/plan.md)
 
 <!-- ## План 2020
 
