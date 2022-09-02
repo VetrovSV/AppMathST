@@ -12,3 +12,4 @@
 #### Литература
 1. Гмурман, В. Е.  Теория вероятностей и математическая статистика : учебник для вузов / В. Е. Гмурман. — 12-е изд. — Москва :
 Издательство Юрайт, 2020. — 479 с. URL: http://biblio-online.ru/bcode/449646 (дата обращения: 21.09.2020).
+2. Программа для работы с распределениями СВ: Probabilty Distributions: [Android](https://play.google.com/store/apps/details?id=com.mbognar.probdist&hl=ru_RU), [iOS](https://apps.apple.com/us/app/probability-distributions/id889106396)
