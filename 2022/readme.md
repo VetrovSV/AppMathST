@@ -8,6 +8,7 @@
 ### Домашнее задание
 - Вычислите вероятность возникновения k событий по схеме Бернулли
   $P_n(k) = \frac{n!}{(n-k)!k!} p^k q^{n-k}$ для n = 23
+- Изучите слайды [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true)
 
 #### Вопросы
 - Что такое случайная величина (СВ)?
