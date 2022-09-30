@@ -1,15 +1,13 @@
 # Занятие 5
 - Анализ данных испытаний прочности бетона.
-  - Задание: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task1/Task1.%20Stats.pdf
-  - Данные: https://github.com/VetrovSV/AppMathST/blob/master/task1/task1.data.csv
-  - Номер строки файла с данными - номер варианта
-  - Программа для статистического нализа: https://colab.research.google.com/drive/1-HqeZSKvJyLrPfkT1wElnRoUUP00NZUR?usp=sharing
+  - Задание и программа для статистического нализа: https://colab.research.google.com/drive/1-HqeZSKvJyLrPfkT1wElnRoUUP00NZUR?usp=sharing
       1. Откройте ссылку
       2. Войдите в свой гугл-аккаунт 
       3. Сохраните программу на свой гугл-диск: File -> Save a Copy in Drive
       4. Запишите данные из своего варианта в переменную `fc`
       5. Запустите программу: Runtime Run All
 - Корреляция?
+  - Задание и программа для статистического нализа https://colab.research.google.com/drive/1JUW43GBoo1DNczcpCohe7sjee_EHuxbo?usp=sharing 
 - Доверительные интервалы для МО генеральной совокупности.
 
 
