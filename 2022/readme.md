@@ -5,6 +5,9 @@
   - Слайды: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/reliability.pdf
 - Задание? Определить площадь поперечного сечения стержня для заданной надёжности
   - https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task3/Task3.pdf
+ 
+**Дополнительно**
+- для математических вычислений: [wolframalpha](https://www.wolframalpha.com), [примеры](wolframalpha.md)
 
 # Занятие 7. Защита работ по стат. обработке данных и корреляции 
 22 октября 
