@@ -1,5 +1,16 @@
-# Занятие 7. Защита работ 
+# Занятие 8
+29 октября
+- Защита работ?
+- Надёжность. Пример: начальная надёжность стержня.
+  - Слайды: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/reliability.pdf
+- Задание? Определить площадь поперечного сечения стержня для заданной надёжности
+  - https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task3/Task3.pdf
+
+# Занятие 7. Защита работ по стат. обработке данных и корреляции 
 22 октября 
+Вопросы приведены в конце программ:
+1. https://colab.research.google.com/drive/1JUW43GBoo1DNczcpCohe7sjee_EHuxbo?usp=sharing 
+2. https://colab.research.google.com/drive/1-HqeZSKvJyLrPfkT1wElnRoUUP00NZUR?usp=sharing
 
 # Занятие 6. Разбор задания 2. Анализ корреляций. Зашита задания
 15 октября 
