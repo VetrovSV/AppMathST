@@ -1,3 +1,11 @@
+
+
+# Занятие 9. Проектировочный расчёт для заданной надёжности
+5 ноября
+- Задание 3. Определить площадь поперечного сечения стержня для заданной надёжности
+  - https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task3/Task3.pdf
+- Защита работ.
+
 # Занятие 8. Определение надёжности
 29 октября
 - Защита работ?
@@ -5,6 +13,7 @@
   - Слайды: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/reliability.pdf
 - Задание? Определить площадь поперечного сечения стержня для заданной надёжности
   - https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task3/Task3.pdf
+- Защита работ
  
 **Дополнительно**
 - для математических вычислений: [wolframalpha](https://www.wolframalpha.com), [примеры](wolframalpha.md)
