@@ -1,4 +1,8 @@
+# Занятие 14. Зачёт
+10 декабря
 
+
+...
 
 # Занятие 9. Проектировочный расчёт для заданной надёжности
 5 ноября
@@ -27,7 +31,7 @@
 
 # Занятие 6. Разбор задания 2. Анализ корреляций. Зашита задания
 15 октября 
-- Задание и программа для статистического нализа https://colab.research.google.com/drive/1JUW43GBoo1DNczcpCohe7sjee_EHuxbo?usp=sharing 
+- Задание и программа для статистического анализа https://colab.research.google.com/drive/1JUW43GBoo1DNczcpCohe7sjee_EHuxbo?usp=sharing 
 
 # Занятие 5. Разбор задания 1 по статистической обработке данных 
 8 октября 
@@ -96,7 +100,7 @@ p-value = …
 Сравним p-value c заданным уровнем значимости $\alpha$ и сделаем вывод о верности гипотез
 
 ### Дополнительно
-О несмешённой оценке дисперсии: https://urait.ru/viewer/teoriya-veroyatnostey-i-matematicheskaya-statistika-488573#page/211
+О несмещённой оценке дисперсии: https://urait.ru/viewer/teoriya-veroyatnostey-i-matematicheskaya-statistika-488573#page/211
 
 Гмурман, В. Е.  Теория вероятностей и математическая статистика : учебник для вузов  — 12-е изд., глава 15, параграф 15.
 
