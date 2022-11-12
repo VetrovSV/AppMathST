@@ -151,6 +151,7 @@ p-value = …
 - Слайды лекции: [variables_1.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_1.pdf?raw=true), [variables_2.pdf](https://github.com/VetrovSV/AppMathST/blob/master/variables_2.pdf?raw=true)
 - Темы лекции:
   - Случайные величины. Числовые характеристики: среднее, дисперсия, медиана, квартили; закон распределения, функция плотности, функция распределения.
+  - Среднее значение (average) и дисперсия (variance), интерактивный пример: https://seeing-theory.brown.edu/basic-probability/index.html#section3
 
 ### Домашнее задание
 - Вычислите вероятность возникновения k событий по схеме Бернулли
