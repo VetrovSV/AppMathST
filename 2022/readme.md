@@ -139,7 +139,7 @@ p-value = …
 10 сентября
 - Опрос
 - Распределение. Функция распределения. Закон распределения. Функция плотности.
-  - https://seeing-theory.brown.edu/probability-distributions/index.html#section3
+  - Примеры распределений и их вид в зависимости от параметров: https://seeing-theory.brown.edu/probability-distributions/index.html#section3
 - Квантили.
 - Вычисление вероятностей и значений СВ по [2]
 
