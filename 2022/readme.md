@@ -11,6 +11,9 @@
 12 ноября
 - Защита работ
 - Интерполяция
+  - Задание: https://raw.githubusercontent.com/VetrovSV/AppMathST/master/task4/Task4.pdf
+  - пример, программа для интерполяции: https://colab.research.google.com/drive/1gwNt2rJzGafhnPET_hdBWoxujxZa42VW?usp=sharing
+
 
 
 # Занятие 10
