@@ -1,12 +1,14 @@
 # AppMathST
 Прикладная математика в строительстве
 
-## [План 2022](https://github.com/VetrovSV/AppMathST/blob/master/2022/readme.md)
+#### [План (заочное, 2023)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/z-2023.md)
 
-## [План 2021](https://github.com/VetrovSV/AppMathST/blob/master/dist-2021/plan.md)
+#### [План 2022](https://github.com/VetrovSV/AppMathST/blob/master/2022/readme.md)
+
+#### [План 2021](https://github.com/VetrovSV/AppMathST/blob/master/dist-2021/plan.md)
 
 
-## [План (заочное, 2022)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/z-2022.md)
+#### [План (заочное, 2022)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/z-2022.md)
 
 <!-- ## План 2020
 
