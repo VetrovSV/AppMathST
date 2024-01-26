@@ -2,7 +2,7 @@
 Прикладная математика в строительстве
 #### [План 2023](https://github.com/VetrovSV/AppMathST/blob/master/plans/2023.md)
 
-#### [План (заочное, 2023)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/z-2023.md)
+#### [План (заочное, 2023, 2024)](https://github.com/VetrovSV/AppMathST/blob/master/dist-z/z-2023.md)
 
 #### [План 2022](https://github.com/VetrovSV/AppMathST/blob/master/2022/readme.md)
 
